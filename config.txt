@@ -1,0 +1,6 @@
+RobinFuud1337
+*jvgm123*
+
+lcd "c:\users\marav\área de trabalho"
+cd uploads
+send source32.zip
